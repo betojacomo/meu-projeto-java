@@ -3,3 +3,26 @@
 
 # Ignore Gradle build output directory
 build
+
+# Bancos de dados SQLite
+*.db
+*.sqlite
+
+# Arquivos de IDE/Editor
+.idea/
+*.iml
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dependências do Gradle (opcional)
+gradle/libs.versions.toml
+
+bin/
+
+# Arquivos temporários de editores
+*.save
+*.backup
+
